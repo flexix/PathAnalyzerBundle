@@ -27,6 +27,6 @@ public function registerBundles()
 {
     $bundles = array(
         // ...
-        new Flexix\PathAnalyzerBundleBundle\FlexixPathAnalyzerBundleBundle()
+        new Flexix\PathAnalyzerBundle\FlexixPathAnalyzerBundle()
     );
 }
